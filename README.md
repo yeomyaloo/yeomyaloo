@@ -2,7 +2,7 @@
 <h1>🥑Yeom Yaloo's Github🥑<br></h1>
 <h2>🛠하나부터 천천히 차근차근!🛠<br></h2>
 <ul>
-  <li> software engineering front (2021~
+  <li> software engineering frontend backend (2021.0.3.02~2021.06.21)
    <li>
 </ul>
 <h3>🤷‍아직은 모르는 게 많은 단계🤷‍<br></h3>

@@ -3,7 +3,7 @@
 <h2>🛠개발 일지🛠<br></h2>
 <table style="border-collapse: collapse; width: 100%;" border="1" data-ke-align="alignLeft">
 <tbody>
-<tr>
+<tr style = "color: grey;">
 <td style="width: 25%;">Project</td>
 <td style="width: 25%;">Back/Front/Full</td>
 <td style="width: 25%;">Project Period</td>

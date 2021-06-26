@@ -4,16 +4,16 @@
 <table style="border-collapse: collapse; width: 100%;" border="1" data-ke-align="alignLeft">
 <tbody>
 <tr>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
-<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;">Project</td>
+<td style="width: 25%;">back/front/full</td>
+<td style="width: 25%;">project period</td>
+<td style="width: 25%;">Develope tool / language</td>
 </tr>
 <tr>
 <td style="width: 25%;">software engineering project</td>
 <td style="width: 25%;">frontend backend</td>
 <td style="width: 25%;">2021.03.02~2021.06.21</td>
-<td style="width: 25%;">&nbsp;</td>
+<td style="width: 25%;"> Android Studio + java </td>
 </tr>
 <tr>
 <td style="width: 25%;">&nbsp;</td>

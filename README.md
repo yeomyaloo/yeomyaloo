@@ -64,7 +64,7 @@
 <td style="width: 25%;"> 2020/2st semester </td>
 </tr>  
 <td style="width: 25%;"> AndroidStudio Programming </td>
-<td style="width: 25%;"> <font style="vertical-align: inherit;"><font style="vertical-align: inherit;"># 007396</font></font> </td>
+<td style="width: 25%;"> </td>
 <td style="width: 25%;"> 자바 프로그래밍 </td>
 <td style="width: 25%;"> 2021/1st semester </td>
 </tr>  

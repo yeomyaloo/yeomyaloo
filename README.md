@@ -24,12 +24,43 @@
 </tbody>
 </table>
 
+<h2>📘 Programming Study 📘</h2>
+<table style="border-collapse: collapse; width: 100%;" border="1" data-ke-align="alignLeft">
+<tbody>
+<tr style = "color: grey;">
+<td style="width: 25%;">C programming</td>
+<td style="width: 25%;">Back/Front/Full</td>
+<td style="width: 25%;">Project Period</td>
+<td style="width: 25%;">Develope Tool / Language</td>
+</tr>
+<tr>
+<td style="width: 25%;"> Language </td>
+<td style="width: 25%;"> Full-stack </td>
+<td style="width: 25%;"> 2021.03.02~2021.06.21 </td>
+<td style="width: 25%;"> 📱Android Studio + Java📱 </td>
+</tr>
+<tr>
+<td style="width: 25%;"> Contents </td>
+<td style="width: 25%;"> Front-End </td>
+<td style="width: 25%;">2021.03.02~2021.09.30</td>
+<td style="width: 25%;"> 🖥Atom + HTML/CSS/PHP🖥 </td>
+</tr>
+<tr>
+<td style="width: 25%;"> Date </td>
+<td style="width: 25%;"> Front-End </td>
+<td style="width: 25%;">2021.03.02~2021.09.30</td>
+<td style="width: 25%;"> 🖥Atom + HTML/CSS/PHP🖥 </td>
+</tr>  
+</tbody>  
+</table>
+
 <h2>🤷‍아직은 모르는 게 많은 단계🤷‍<br></h2>
 <ul>
   <li> android studio - application implemented 🏕Camping Reservation application🏕 (2021.03 ~ 2021.06.21)
   <li> 정보처리기사 자격증 준비 - (2021.07~ </li>
   
   </ul>
+
 
   
 

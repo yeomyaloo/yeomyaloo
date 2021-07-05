@@ -4,14 +4,20 @@
 <table style="border-collapse: collapse; width: 100%;" border="1" data-ke-align="alignLeft">
 <tbody>
 <tr style = "color: grey;">
-<td style="width: 25%;">Project</td>
-<td style="width: 25%;">Back/Front/Full</td>
-<td style="width: 25%;">Project Period</td>
-<td style="width: 25%;">Develope Tool / Language</td>
+<td style="width: 25%;"> Project </td>
+<td style="width: 25%;"> Back/Front/Full </td>
+<td style="width: 25%;"> Date </td>
+<td style="width: 25%;"> Develope Tool / Language </td>
+</tr>
+<tr>
+<td style="width: 25%;"> Content service development </td>
+<td style="width: 25%;"> Front - End </td>
+<td style="width: 25%;"> 2019.09.01~2019.12 </td>
+<td style="width: 25%;"> 🖥HTML + CSS + JAVASCRIPT🖥 </td>
 </tr>
 <tr>
 <td style="width: 25%;"> software engineering project </td>
-<td style="width: 25%;"> Full-stack </td>
+<td style="width: 25%;"> Full-Stack </td>
 <td style="width: 25%;"> 2021.03.02~2021.06.21 </td>
 <td style="width: 25%;"> 📱Android Studio + Java📱 </td>
 </tr>
@@ -19,7 +25,7 @@
 <td style="width: 25%;"> Capstone Design </td>
 <td style="width: 25%;"> Front-End </td>
 <td style="width: 25%;">2021.03.02~2021.09.30</td>
-<td style="width: 25%;"> 🖥Atom + HTML/CSS/PHP🖥 </td>
+<td style="width: 25%;"> 🖥Atom + HTML/CSS + PHP🖥 </td>
 </tr>
 </tbody>
 </table>
@@ -29,27 +35,38 @@
 <tbody>
 <tr style = "color: grey;">
 <td style="width: 25%;">C programming</td>
-<td style="width: 25%;">Back/Front/Full</td>
-<td style="width: 25%;">Project Period</td>
-<td style="width: 25%;">Develope Tool / Language</td>
-</tr>
-<tr>
-<td style="width: 25%;"> Language </td>
-<td style="width: 25%;"> Full-stack </td>
-<td style="width: 25%;"> 2021.03.02~2021.06.21 </td>
-<td style="width: 25%;"> 📱Android Studio + Java📱 </td>
-</tr>
-<tr>
+<td style="width: 25%;">Language</td>
 <td style="width: 25%;"> Contents </td>
-<td style="width: 25%;"> Front-End </td>
-<td style="width: 25%;">2021.03.02~2021.09.30</td>
-<td style="width: 25%;"> 🖥Atom + HTML/CSS/PHP🖥 </td>
+<td style="width: 25%;"> Date </td>
 </tr>
 <tr>
-<td style="width: 25%;"> Date </td>
-<td style="width: 25%;"> Front-End </td>
-<td style="width: 25%;">2021.03.02~2021.09.30</td>
-<td style="width: 25%;"> 🖥Atom + HTML/CSS/PHP🖥 </td>
+<td style="width: 25%;"> C Programming </td>
+<td style="width: 25%;">  </td>
+<td style="width: 25%;"> C언어프로그래밍 </td>
+<td style="width: 25%;"> 2019/1st semester </td>
+</tr>
+<tr>
+<td style="width: 25%;"> Python Programming </td>
+<td style="width: 25%;">  </td>
+<td style="width: 25%;"> 파이썬 프로그래밍 </td>
+<td style="width: 25%;"> 2019/1st semester </td>
+</tr>
+<tr>
+<td style="width: 25%;"> Web Programming </td>
+<td style="width: 25%;">  </td>
+<td style="width: 25%;"> HTML + CSS + JAVASCRIPT </td>
+<td style="width: 25%;"> 2019/1st semester </td>
+</tr>
+<tr>
+<td style="width: 25%;"> Java Programming </td>
+<td style="width: 25%;">  </td>
+<td style="width: 25%;"> 자바 프로그래밍 </td>
+<td style="width: 25%;"> 2020/2st semester </td>
+</tr>  
+<td style="width: 25%;"> AndroidStudio Programming </td>
+<td style="width: 25%;"> <font style="vertical-align: inherit;"><font style="vertical-align: inherit;"># 007396</font></font> </td>
+<td style="width: 25%;"> 자바 프로그래밍 </td>
+<td style="width: 25%;"> 2021/1st semester </td>
 </tr>  
 </tbody>  
 </table>

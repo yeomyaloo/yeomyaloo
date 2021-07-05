@@ -11,7 +11,7 @@
 </tr>
 <tr>
 <td style="width: 25%;"> software engineering project </td>
-<td style="width: 25%;"> Front-End Back-End </td>
+<td style="width: 25%;"> Full-stack </td>
 <td style="width: 25%;"> 2021.03.02~2021.06.21 </td>
 <td style="width: 25%;"> 📱Android Studio + Java📱 </td>
 </tr>

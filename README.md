@@ -4,7 +4,7 @@
 <table style="border-collapse: collapse; width: 100%;" border="1" data-ke-align="alignLeft">
 <tbody>
 <tr style = "color: grey;">
-<td style="width: 25%;"> Project </td>
+<td style="width: 25%; font-weight:bold;"> Project </td>
 <td style="width: 25%;"> Back/Front/Full </td>
 <td style="width: 25%;"> Date </td>
 <td style="width: 25%;"> Develope Tool / Language </td>

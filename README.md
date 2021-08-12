@@ -1,5 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeomyaloo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<h1>🥑Yeom Yaloo's Github🥑<br></h1>
+<h1 style="text-decoration:center">🥑Yeom Yaloo's Github🥑<br></h1>
 <h2>🛠개발 일지🛠<br></h2>
 <table style="border-collapse: collapse; width: 100%;" border="1" data-ke-align="alignLeft">
 <tbody>

@@ -74,7 +74,7 @@
 <h2>🤷‍아직은 모르는 게 많은 단계🤷‍<br></h2>
 <ul>
   <li> android studio - application implemented 🏕Camping Reservation application🏕 (2021.03 ~ 2021.06.21)
-  <li> 정보처리기사 자격증 준비 - (2021.07~ </li>
+  <li> 정보처리기사 자격증 준비 - (2021.07~2021.10)</li>
   
   </ul>
 sd

@@ -21,7 +21,7 @@
 <td style="width: 25%;"> software engineering project </td>
 <td style="width: 25%;"> Full-Stack </td>
 <td style="width: 25%;"> 2021.03.02~2021.06.21 </td>
-<td style="width: 25%;"> 📱Android Studio + Java📱 </td>
+<td style="width: 25%;"> 📱Android Studio + Java📱 </td>.
 </tr>
 <tr>
 <td style="width: 25%;"> Capstone Design </td>

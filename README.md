@@ -2,7 +2,7 @@
 <h1 style="text-aligin:center">🥑Yeom Yaloo's Github🥑<br></h1>
 <h3>🥑Tistory https://yeomylaoo.tistory.com/ </h3>
 
-<h2>🛠개발 일지🛠<br></h2>
+<h2>🛠개발 일지🛠</h2>
 <table style="border-collapse: collapse; width: 100%;" border="1" data-ke-align="alignLeft">
 <tbody>
 <tr style = "color: grey;">
@@ -28,6 +28,12 @@
 <td style="width: 25%;"> Front-End </td>
 <td style="width: 25%;">2021.03.02~2021.09.30</td>
 <td style="width: 25%;"> 🖥Atom + HTML/CSS + Python🖥 </td>
+</tr>
+<tr>
+<td style="width: 25%;"> Youtube Clone </td>
+<td style="width: 25%;"> Full-Stack </td>
+<td style="width: 25%;">2021.10.02~</td>
+<td style="width: 25%;"> 🖥VScode + HTML + CSS + JAVASCRIPT🖥 </td>
 </tr>
 </tbody>
 </table>
@@ -101,4 +107,4 @@
 </tr>
 </tbody>
 </table>
-asdads
+

@@ -98,14 +98,12 @@
 <td style="width: auto;"> Project Explanation </td>
 </tr>
 <tr style = "color: grey;">
-<td style="width: auto; font-weight:bold;"> 공구리 </td>
-<td style="width: auto;"> Full </td>
-<td style="width: auto;"> 2021.09~ </td>
-<td style="width: auto;"> PyCharm(Django) </td>
-<td style="width: auto;"> Python </td>
-<td style="width: auto;"> 공구 가격이 제각각인 것을 보고 한곳에서 시세 비교를 하고 나아가 거래까지 가능하도록 만들  </td>
+<td style="width: auto; font-weight:bold;"> Vanilla JS Web </td>
+<td style="width: auto;"> Front </td>
+<td style="width: auto;"> 2021.12~ </td>
+<td style="width: auto;"> Visual code </td>
+<td style="width: auto;"> Html+CSS+Javascript </td>
+<td style="width: auto;"> 바닐라 자바스크립트를 이용해서 웹페이지 구현해보기 </td>
 </tr>
 </tbody>
 </table>
-
-ㄹ,

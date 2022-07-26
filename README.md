@@ -105,7 +105,14 @@
 <td style="width: auto;"> Html+CSS+Javascript </td>
 <td style="width: auto;"> 바닐라 자바스크립트를 이용해서 웹페이지 구현해보기 </td>
 </tr>
+<tr style = "color: grey;">
+<td style="width: auto; font-weight:bold;"> Vanilla JS Web </td>
+<td style="width: auto;"> Front </td>
+<td style="width: auto;"> 2021.12~ 2022.01.03 </td>
+<td style="width: auto;"> Visual code </td>
+<td style="width: auto;"> Html+CSS+Javascript </td>
+<td style="width: auto;"> 바닐라 자바스크립트를 이용해서 웹페이지 구현해보기 </td>
+</tr>
+https://yeomyaloo.github.io/GhibliTodoPage/GhibliPage.html
 </tbody>
 </table>
-
-dd

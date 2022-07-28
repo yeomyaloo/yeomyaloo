@@ -1,7 +1,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeomyaloo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <h1 style="text-aligin:center">🥑Yeom Yaloo's Github🥑<br></h1>
 <h3>🥑Tistory https://yeomylaoo.tistory.com/ </h3>
-<h3>🥑Velog https://velog.io/ </h3>
+<h3>🥑Velog https://velog.io/@yeomyaloo </h3>
 
 <h2>🛠개발 일지🛠</h2>
 <table style="border-collapse: collapse; width: 100%;" border="1" data-ke-align="alignLeft">

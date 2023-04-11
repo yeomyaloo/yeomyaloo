@@ -58,7 +58,8 @@
 </p>
 <p align="center" display="inline-block">
     💡CI/CD <br>
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring REST Docs-6DB33F?style=for-the-badge&logo=jenkins&logoColor=white">
+
 </p>
 
 <p align="center">

@@ -1,5 +1,5 @@
 ![transparent](https://capsule-render.vercel.app/api?type=waving&color=auto&fontColor=ffffff&text=yaloo's%20GitHub%20&height=300&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
-d
+
 <br>
 
 <p align="center">

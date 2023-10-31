@@ -82,4 +82,3 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeom456)](https://solved.ac/yeom456/)
     
 </div>
-d

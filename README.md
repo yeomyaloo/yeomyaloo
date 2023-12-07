@@ -79,6 +79,6 @@
 <div align="center">
     
 ![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=yeomyaloo&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeom456)](https://solved.ac/yeom456/)
+
     
 </div>

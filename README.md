@@ -83,7 +83,7 @@
 
 | 작업 | 결과 |
 | --- | --- |
-| 오픈소스 보안 취약점 제보 | 직접 만든 보안 점검 도구 **Cotcha**로 OPanel의 자격증명 해싱 취약점(CWE-916, 심각도 High) 발견·제보<br/>Reporter 크레딧, v2.2.11에서 수정 · [GHSA-fc78-fx83-q5f9](https://github.com/opanel-mc/opanel/security/advisories/GHSA-fc78-fx83-q5f9) |
+| 오픈소스 보안 취약점 제보 | 직접 만든 보안 점검 도구 <b>Cotcha</b>로 OPanel의 자격증명 해싱 취약점(CWE-916, 심각도 High) 발견·제보<br/>Reporter 크레딧, v2.2.11에서 수정 · [GHSA-fc78-fx83-q5f9](https://github.com/opanel-mc/opanel/security/advisories/GHSA-fc78-fx83-q5f9) |
 | Cotcha — AI 코드 보안 점검 도구 | 공용 엔진 + 에이전트 서버 + Claude Code 플러그인 + 웹 대시보드, Java/Spring·Python/FastAPI 지원<br/>[cotcha-trail](https://github.com/yeomyaloo/cotcha-trail) · [cotcha-net](https://github.com/yeomyaloo/cotcha-net) · [cotcha-pocket](https://github.com/yeomyaloo/cotcha-pocket) · [cotcha-jar](https://github.com/yeomyaloo/cotcha-jar) |
 | Ripple — CR 영향도 분석기 | 변경 요청(CR)이 코드 어디에 영향을 주는지 분석<br/>[ripple](https://github.com/yeomyaloo/ripple) |
 | AI 기반 개발 표준 전사 확산 | AI를 활용한 개발 표준을 만들어 조직 전체에 적용 |

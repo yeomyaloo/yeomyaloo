@@ -25,46 +25,6 @@
 
 <hr />
 
-## 🛠️ Tech Stack
-
-<!-- 실제 사용 기술에 맞게 i= 뒤 목록을 수정하세요 -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python" />
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind" />
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,postgres" />
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
-<hr />
-
-## 🐞 Featured: Cotcha
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeomyaloo/cotcha-trail/main/docs/images/cotcha-logo-dark.svg">
-    <img src="https://raw.githubusercontent.com/yeomyaloo/cotcha-trail/main/docs/images/cotcha-logo.svg" alt="Cotcha" width="240">
-  </picture>
-</p>
-
-<p align="center"><b>"Caught ya!"</b> — 외부 입력이 들어오는 곳부터 위험한 호출까지 따라가며 보안 버그를 잡는 AI 코드 보안 점검 도구<br/><i>Every bug ends up in the jar.</i></p>
-
-| 레포 | 이름 뜻 | 역할 |
-| --- | --- | --- |
-| [cotcha-trail](https://github.com/yeomyaloo/cotcha-trail) | 벌레가 지나간 발자국 | 공용 분석 엔진: Java/Spring·Python/FastAPI·JS/TS → 진입점·위험 지점·호출 그래프 |
-| [cotcha-net](https://github.com/yeomyaloo/cotcha-net) | 벌레 잡는 잠자리채 | Spring Boot 서버: 계획·조사·검증 AI 에이전트 팀, 사람 승인 단계 |
-| [cotcha-pocket](https://github.com/yeomyaloo/cotcha-pocket) | 주머니 속 채집통 | Claude Code 플러그인 / MCP 서버: 채팅에서 바로 보안 점검 |
-| [cotcha-jar](https://github.com/yeomyaloo/cotcha-jar) | 잡은 벌레를 모아 두는 유리병 | React 대시보드: 경로·발견·승인을 한눈에 |
-
-> 🏅 **직접 만든 Cotcha로 실제 오픈소스(OPanel)를 점검**해 자격증명 해싱 결함(CWE-916)을 찾아 제보 → [GHSA-fc78-fx83-q5f9](https://github.com/opanel-mc/opanel/security/advisories/GHSA-fc78-fx83-q5f9)로 수용, v2.2.11에서 수정, **Reporter 크레딧**
-
-<hr />
-
 ## 💼 Projects
 
 <table>
@@ -98,6 +58,46 @@
     </tr>
   </tbody>
 </table>
+
+<hr />
+
+## 🐞 Featured: Cotcha
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeomyaloo/cotcha-trail/main/docs/images/cotcha-logo-dark.svg">
+    <img src="https://raw.githubusercontent.com/yeomyaloo/cotcha-trail/main/docs/images/cotcha-logo.svg" alt="Cotcha" width="240">
+  </picture>
+</p>
+
+<p align="center"><b>"Caught ya!"</b> — 외부 입력이 들어오는 곳부터 위험한 호출까지 따라가며 보안 버그를 잡는 AI 코드 보안 점검 도구<br/><i>Every bug ends up in the jar.</i></p>
+
+| 레포 | 이름 뜻 | 역할 |
+| --- | --- | --- |
+| [cotcha-trail](https://github.com/yeomyaloo/cotcha-trail) | 벌레가 지나간 발자국 | 공용 분석 엔진: Java/Spring·Python/FastAPI·JS/TS → 진입점·위험 지점·호출 그래프 |
+| [cotcha-net](https://github.com/yeomyaloo/cotcha-net) | 벌레 잡는 잠자리채 | Spring Boot 서버: 계획·조사·검증 AI 에이전트 팀, 사람 승인 단계 |
+| [cotcha-pocket](https://github.com/yeomyaloo/cotcha-pocket) | 주머니 속 채집통 | Claude Code 플러그인 / MCP 서버: 채팅에서 바로 보안 점검 |
+| [cotcha-jar](https://github.com/yeomyaloo/cotcha-jar) | 잡은 벌레를 모아 두는 유리병 | React 대시보드: 경로·발견·승인을 한눈에 |
+
+> 🏅 **직접 만든 Cotcha로 실제 오픈소스(OPanel)를 점검**해 자격증명 해싱 결함(CWE-916)을 찾아 제보 → [GHSA-fc78-fx83-q5f9](https://github.com/opanel-mc/opanel/security/advisories/GHSA-fc78-fx83-q5f9)로 수용, v2.2.11에서 수정, **Reporter 크레딧**
+
+<hr />
+
+## 🛠️ Tech Stack
+
+<!-- 실제 사용 기술에 맞게 i= 뒤 목록을 수정하세요 -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 <hr />
 

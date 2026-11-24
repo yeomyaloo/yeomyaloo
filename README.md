@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://github.com/yeomyaloo" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
-  <a href="YOUR_BLOG_URL" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=velog&logoColor=white" alt="Blog" /></a>
+  <a href="https://yeomyaloo.github.io/yeomyaloo.github.io-infra/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog" /></a>
 </p>
 
 <hr />
@@ -82,6 +82,7 @@
 
 | 작업 | 결과 |
 | --- | --- |
+| 오픈소스 보안 취약점 제보 | 직접 만든 보안 진단 에이전트로 OPanel의 자격증명 해싱 취약점(CWE-916, 심각도 High) 발견·제보<br/>Reporter 크레딧, v2.2.11에서 수정 · [GHSA-fc78-fx83-q5f9](https://github.com/opanel-mc/opanel/security/advisories/GHSA-fc78-fx83-q5f9) |
 | 코드 보안 점검 도구 개발 | MCP 서버 버전과 백엔드·프론트엔드 웹 버전을 개발해 플러그인으로 배포<br/>[mcp-code-agent](https://github.com/yeomyaloo/mcp-code-agent) · [be-code-agent](https://github.com/yeomyaloo/be-code-agent) · [fe-code-agent](https://github.com/yeomyaloo/fe-code-agent) |
 | Ripple — CR 영향도 분석기 | 변경 요청(CR)이 코드 어디에 영향을 주는지 분석<br/>[ripple](https://github.com/yeomyaloo/ripple) |
 | AI 기반 개발 표준 전사 확산 | AI를 활용한 개발 표준을 만들어 조직 전체에 적용 |

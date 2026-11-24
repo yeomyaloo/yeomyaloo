@@ -17,7 +17,7 @@
 
 - 풀스택 프로젝트 2건, 프론트엔드 프로젝트 1건 수행
 - 현재 **하네스 엔지니어링**을 도입해 **Claude 기반 개발 표준**을 만들고 있습니다
-- 직접 만든 AI 코드 보안 점검 도구 <b><a href="https://github.com/yeomyaloo/cotcha-net">Cotcha</a></b>로 오픈소스 취약점을 찾아 <b>GitHub Security Advisory Reporter 크레딧</b>을 받았습니다
+- 직접 만든 AI 코드 보안 점검 도구 <b><a href="https://github.com/yeomyaloo/cotcha-net">Cotcha</a></b>로 오픈소스 취약점을 찾아 <b><a href="https://github.com/opanel-mc/opanel/security/advisories/GHSA-fc78-fx83-q5f9">GitHub Security Advisory Reporter 크레딧</a></b>을 받았습니다 (<a href="https://github.com/opanel-mc/opanel/security/advisories/GHSA-fc78-fx83-q5f9">GHSA-fc78-fx83-q5f9</a>)
 - 관심 분야: **AX**(AI 전환), **AI**, **인프라**, **보안**
 
 > AI가 코드를 쓰는 시대, 개발자의 일은 **무엇을 왜 만들지 판단하는 것**이라고 믿습니다.  

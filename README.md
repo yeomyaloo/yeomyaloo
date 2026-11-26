@@ -42,11 +42,6 @@
       <td>하네스 엔지니어링 도입, Claude 기반 개발 표준 수립</td>
     </tr>
     <tr>
-      <td>🎓 완성차 교육 플랫폼</td>
-      <td align="center">2026.08 ~ 2026.11</td>
-      <td>지원 투입</td>
-    </tr>
-    <tr>
       <td>🌍 유럽 딜러 서비스</td>
       <td align="center">2025.06 ~</td>
       <td>프론트엔드</td>
